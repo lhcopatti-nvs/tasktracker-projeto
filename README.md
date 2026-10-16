@@ -50,7 +50,7 @@ tasktracker-projeto/
 Pré-requisito: Python 3.8 ou superior.
 
 ```bash
-git clone https://github.com/<seu-usuario>/tasktracker-projeto.git
+git clone https://github.com/<lhcopatti-nvs>/tasktracker-projeto.git
 cd tasktracker-projeto
 python src/main.py
 ```
